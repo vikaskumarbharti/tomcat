@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [28/May/2020:15:03:29 +0530] "GET /webapplication/index.jsp HTTP/1.1" 200 57 http-bio-8080-exec-1 956
+0:0:0:0:0:0:0:1 - - [28/May/2020:15:03:29 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-2 0
